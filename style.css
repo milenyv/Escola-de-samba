@@ -1,22 +1,29 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
-} */
+}
 
 header{
-    background-color: linear-gradient (45deg, grey,black);
-    background-attachment: fixed;
+    background-color: rgb(151, 8, 8);
+    
 }
 
 #principal{
-    text-align: center;
+    text-align: justify;
+    width: 700px;
     
+}
+
+.noticias{
+    color: red;
 }
 
 
 
 footer{
+    text-align: center;
     background-color: #BCBCBC;
     height: 320;
     position: end;
+    margin: 0;
 }
