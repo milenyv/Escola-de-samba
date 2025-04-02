@@ -66,15 +66,48 @@ section{
     height: 630px;
 }
 
-footer{
-    text-align: center;
-    background-color: #BCBCBC;
-    height: 80px;
-    margin: 0;
+
+
+ 
+.navbar {
+
+    background-color: #f8f8f8; /* Cor de fundo roxa */
+
+    padding: 10px 20px;
+
+    display: flex;
+
+    justify-content: center;
+    position: absolute;
+    margin-top: 30px;
+
+}
+ 
+.menu {
+
+    display: flex;
+    font-size:  30px;
+
+    gap: 22px; /* Espaço entre os itens */
+
+}
+ 
+.menu a {
+
+    color: rgb(0, 0, 0);
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    transition: 0.3s;
+
+}
+ 
+.menu a:hover {
+
+    text-decoration: underline;
+
 }
 
-button{
-    font-size: 25px;
-    padding: 5px;
-    border-radius: 10px;
-}
+ 
