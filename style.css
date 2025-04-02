@@ -20,7 +20,7 @@ body{
 header{
     text-align: center;
     width: 100%;
-    height: ;
+    
 }
 
 #anos{
@@ -153,7 +153,7 @@ button{
     text-decoration: none;
     font-size: 25px;
     padding: 30PX;
-    text-align: center;
+    align-items: center;
     font-weight: bold;
     transition: 0.3s;
 }
