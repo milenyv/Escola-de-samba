@@ -20,7 +20,7 @@ body{
 header{
     text-align: center;
     width: 100%;
-    
+    height: ;
 }
 
 #anos{
@@ -162,3 +162,10 @@ button{
     text-decoration: underline;
 }
 >>>>>>> 6a427d759c277ece417239a0f937d669c8cbab3e
+
+.compras.nav{
+
+    width: 200px;
+    background-color: #D76565;
+
+}
