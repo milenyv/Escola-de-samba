@@ -18,12 +18,12 @@ body{
 }
 
 header{
-    background-color: rgb(151, 8, 8);
     text-align: center;
+    width: 100%;
     
 }
 
-nav{
+#anos{
     background-color: #D76565;
     width: 190px;
     height: 600px;
@@ -110,4 +110,55 @@ section{
 
 }
 
+<<<<<<< HEAD
  
+=======
+button{
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+/* Barra de navegação */
+.navbar {
+    
+    padding: 10px 20px;
+}
+
+/* Container para alinhar os itens */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Estilização do lado esquerdo */
+.left {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* Estilização do lado direito (links) */
+.right {
+    display: flex;
+    gap: 50px;
+}
+
+/* Links */
+.right a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 25px;
+    padding: 30PX;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.right a:hover {
+    text-decoration: underline;
+}
+>>>>>>> 6a427d759c277ece417239a0f937d669c8cbab3e
