@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+
+main{
+    width: 100%;
+    display: inline-block;
+    background-color: rgb(151, 55, 55);
+}
+
+.fichaTecnica{
+    width: 50%;
+    display: inline-block;
+    background-color: rgb(116, 94, 94);
+}
+
+.produtos{
+    display: inline-block;
+    
+
+}
+
+h1, p{
+    display: inline-block;
+
+}
+
+.camisafechada{
+    border: 3px black solid;
+    text-align: justify;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+
+.nomecamisa{
+    text-align: start;
+    
+}
