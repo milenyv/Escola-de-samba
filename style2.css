@@ -18,7 +18,15 @@ main{
 .fichaTecnica{
     width: 50%;
     display: inline-block;
-    background-color: rgb(116, 94, 94);
+    background-color: rgb(250, 250, 250);
+    border: 4px black solid;
+    border-radius: 9px;
+    width: 800px;
+    margin-right: 20px;
+    margin-left: 15px;
+    text-align: justify;
+    padding: 15px;
+    
 }
 
 .produtos{
@@ -45,4 +53,16 @@ h1, p{
     text-align: start;
     
 
+}
+
+.produtos{
+    border-radius: 4px;
+    background-color: rgb(216, 213, 210);
+    margin: auto;
+    justify-content: space-around;
+}
+.sal{
+    justify-content: space-around;
+    text-align: center;
+    margin:auto;
 }
